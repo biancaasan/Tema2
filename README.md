@@ -9,6 +9,13 @@ The user selects a country and a city and then press the search button in order 
 
 ![](/src/main/resources/images/gui.png)
 
+## Language and Framework
+
+Java
+JavaFX
+Maven
+MVC architecture
+
 
 ## How to run the application
 
