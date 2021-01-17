@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
-
+/*The class WeatherRequest makes the request to OpenWeatherMap server to obtain json file and parse this file to obtain the desired information.*/
 
 public class WeatherRequest {
 
