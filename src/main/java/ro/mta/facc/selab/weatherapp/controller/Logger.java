@@ -10,7 +10,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-/*this class creates the file with information about the weather searched*/
+/*The class Logger creates the file with information about the weather searched*/
+
 public class Logger {
 
     private static Logger logger = null;
