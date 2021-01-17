@@ -14,10 +14,13 @@ The user selects a country and a city and then press the search button in order 
 
 ## Language and Framework
 
-Java
-JavaFX
-Maven
-MVC architecture
+|Java                |
+|:------------------:|
+|JavaFX              |
+|:------------------:|
+|Maven               |
+|:------------------:|
+|MVC architecture    |
 
 
 ## How to run the application
