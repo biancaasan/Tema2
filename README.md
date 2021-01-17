@@ -34,3 +34,10 @@ All this information can be obtained from https://openweathermap.org/api .
 ## Activities Diagram
 
 ![](/src/main/resources/images/ActivitiesDiagram.PNG)
+
+
+## Alerts
+
+When an Exceptions occurs will be displayed an alert box which contains a message about the reason of the alert occurance.
+
+![](/src/main/resources/images/error.png)
