@@ -130,14 +130,24 @@ public class Controller implements Initializable {
         // cities.setItems(dataC);
 
         WeatherRequest W = new WeatherRequest();
-         try {
+        Model m = null;
+        try {
             //System.out.println(cities.getValue());
             //W.currentWeather(cities.getValue());
-           Model m =  W.jsonParser(cities.getValue());
+           m =  W.jsonParser(cities.getValue());
            displayWeather(m);
         } catch (IOException | ParseException e) {
             e.printStackTrace();
         }
+
+         Logger logger = null;
+         logger.getInstance();
+         if(logger.log(m,cities.getValue(),countries.getValue()) == true){
+             System.out.println("Succesfull added");
+         }else{
+             Alert alert = new Alert();
+             alert.display("Alert box", "Logger problem");
+         }
     }
 
 
