@@ -8,7 +8,7 @@ This application was developped using MVC architecture and it is a JavaFX based 
 
 ![](/src/main/resources/images/gui.png)
 
-#How to use the application
+## How to use the application
 
 The user selects a country and a city and then press the search button in order to get the information about the weather.
 
