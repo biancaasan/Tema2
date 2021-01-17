@@ -20,12 +20,12 @@ All this information can be obtained from https://openweathermap.org/api .
 
 | ID        | nm         | lat       | lon       |  countryCode |
 | --------  |:----------:| :--------:| :--------:| ------------:|
-| 819827    | Razvilka   | 55.591667 | 37.740833 |  RU          |
-| 524901    | Moscow     | 55.752220 | 37.615555 |  RU          |
-| 2973393   | Tarascon   | 43.805828 |  4.660280 |  FR          | 
+| 819827    | Razvilka   | 55.591667 | 37.740833 |     RU       |
+| 524901    | Moscow     | 55.752220 | 37.615555 |     RU       |
+| 2973393   | Tarascon   | 43.805828 |  4.660280 |     FR       | 
 
 
 
 ## Classes Diagram
 
-![](/src/main/resources/images/ClassDiagram)
+![](/src/main/resources/images/ClassDiagram.jpg)
