@@ -28,11 +28,12 @@ All this information can be obtained from https://openweathermap.org/api .
 
 ## Classes Diagram
 
-![align="center"](/src/main/resources/images/ClassDiagram.jpg)
+![](/src/main/resources/images/ClassDiagram.jpg)
 
 
 ## Activities Diagram
 
+<p align="center">
 ![](/src/main/resources/images/ActivitiesDiagram.PNG)
 
 
