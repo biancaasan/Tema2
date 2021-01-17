@@ -33,7 +33,6 @@ All this information can be obtained from https://openweathermap.org/api .
 
 ## Activities Diagram
 
-<p align="center">
 ![](/src/main/resources/images/ActivitiesDiagram.PNG)
 
 
