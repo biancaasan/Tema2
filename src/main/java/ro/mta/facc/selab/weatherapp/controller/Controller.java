@@ -18,6 +18,8 @@ import java.util.ArrayList;
 import java.util.ResourceBundle;
 
 
+/*The class Controller controls the elements from the GUI and implements the functionality of the application*/
+
 public class Controller implements Initializable {
 
     DataFromFile d = new DataFromFile();
