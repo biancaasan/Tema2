@@ -46,11 +46,6 @@ All this information can be obtained from https://openweathermap.org/api .
 ![](/src/main/resources/images/ActivitiesDiagram.PNG)
 
 
-## Alerts
-
-When an exception occurs will be displayed an alert box which contains a message about the reason of the alert occurance.
-
-![](/src/main/resources/images/error.png)
 
 ## What I have learned
 
