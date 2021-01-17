@@ -13,4 +13,17 @@ The user selects a country and a city and then press the search button in order 
 ## How to run the application
 
 In order to run the application you need an input file which contains the city id, the name of the city, the latitude and longitude for the city and the country code.
-All this information can be obtained from  []https://openweathermap.org/api
+All this information can be obtained from https://openweathermap.org/api .
+
+### Example of input file
+
+ID		          nm		        lat		          lon		      countryCode
+819827	        Razvilka	    55.591667       37.740833	  RU
+524901	        Moscow	      55.752220       37.615555	  RU
+2973393	        Tarascon	    43.805828       4.660280	  FR
+2986678	        Ploufragan	  48.491409       -2.794580	  FR
+
+
+## Classes Diagram
+
+![](/src/main/resources/images/ClassDiagram)
