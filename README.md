@@ -33,4 +33,4 @@ All this information can be obtained from https://openweathermap.org/api .
 
 ## Activities Diagram
 
-![](//src/main/resources/images/ActivitiesDiagram.PNG)
+![](/src/main/resources/images/ActivitiesDiagram.PNG)
