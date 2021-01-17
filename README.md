@@ -29,3 +29,8 @@ All this information can be obtained from https://openweathermap.org/api .
 ## Classes Diagram
 
 ![](/src/main/resources/images/ClassDiagram.jpg)
+
+
+## Activities Diagram
+
+![](//src/main/resources/images/ActivitiesDiagram.PNG)
