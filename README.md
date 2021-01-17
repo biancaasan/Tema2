@@ -17,9 +17,7 @@ The user selects a country and a city and then press the search button in order 
 |Java                |
 |:------------------:|
 |JavaFX              |
-|:------------------:|
 |Maven               |
-|:------------------:|
 |MVC architecture    |
 
 
